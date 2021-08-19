@@ -1,0 +1,15 @@
+zid : z0000000
+refresh_rate : 1000
+x_axis : 0
+y_axis : 1
+z_plus_axis : 2
+z_minus_axis : 5
+steering_axis : 3
+drop_block_button : 2
+clear_blocks_button : 5
+gravity_button : 3
+trigger_deadzone : 0.1
+joystick_deadzone : 0.5
+floor_bound : -85
+ceiling_bound : 200
+side_bound : 175
